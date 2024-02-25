@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhashdwivedi" alt="vibhashdwivedi" /></a> </p>-->
 
 <!-- - 🔭 I’m currently working on [Devlink](https://github.com/VibhashDwivedi/DevLink)-->
- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React, C/C++, SQL, Python**
+ 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React**
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
