@@ -3,8 +3,10 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhashdwivedi" alt="vibhashdwivedi" /></a> </p>-->
 
-<!-- - 🔭 I’m currently working on [Devlink](https://github.com/VibhashDwivedi/DevLink)-->
- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React**
+<h3 align="left">💬 About me:</h3
+<h3 align="left">
+ Enthusiastic about frontend engineering, I have expertise in HTML, CSS, and JavaScript, with a focus on React for crafting dynamic and responsive user interfaces.Proficient in utilizing React's component-based architecture and state management to create seamless and responsive web applications.My proficiency extends to full-stack development, particularly within the MERN (MongoDB, Express.js, React, Node.js) stack. Additionally, I have a strong foundation in Data Structures and Algorithms using C++, showcasing a well-rounded skill set that encompasses both frontend technologies and essential computer science principles. Keen to contribute to innovative projects, I am poised to thrive in collaborative tech environments and pursue ongoing growth in the dynamic realm of web development.
+</h3>
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
@@ -49,7 +51,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhashdwivedi&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/VibhashDwivedi/VibhashDwivedi/output/snake.svg" alt="Snake animation" />
+
 
 <!--
 **VibhashDwivedi/VibhashDwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
