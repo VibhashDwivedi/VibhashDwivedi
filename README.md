@@ -39,11 +39,15 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhashdwivedi&show_icons=true&locale=en&layout=compact" alt="vibhashdwivedi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhashdwivedi&show_icons=true&locale=en" alt="vibhashdwivedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhashdwivedi&" alt="vibhashdwivedi" /></p>
+<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhashdwivedi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhashdwivedi&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="languages graph"  />
+</div>
 
 <!--
 **VibhashDwivedi/VibhashDwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
