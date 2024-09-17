@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=VibhashDwivedi&theme=gruvbox&title=-Stars,-Reviews" alt="vibhashdwivedi" /> </div>
+ <img src="https://github-profile-trophy.vercel.app/?username=VibhashDwivedi&theme=gruvbox&title=-Stars,-Reviews&column=6" alt="vibhashdwivedi" /> </div>
 
 
 
