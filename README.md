@@ -57,6 +57,8 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhashdwivedi&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="languages graph"  />
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhashdwivedi" alt="vibhashdwivedi" /></a> </p>
+
 
 
 
