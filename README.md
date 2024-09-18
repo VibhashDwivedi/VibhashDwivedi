@@ -60,9 +60,6 @@
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=VibhashDwivedi&theme=gruvbox&title=-Stars,-Reviews&column=6" alt="vibhashdwivedi" /> </div>
 
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=VibhashDwivedi&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
 
 
 
