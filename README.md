@@ -9,7 +9,7 @@
 
 <h3 align="left">💬 About me:</h3>
 <h5 align="left">
- Enthusiastic about frontend engineering, I have expertise in HTML, CSS, and JavaScript, with a focus on React for crafting dynamic and responsive user interfaces.Proficient in utilizing React's component-based architecture and state management to create seamless and responsive web applications.My proficiency extends to full-stack development, particularly within the MERN (MongoDB, Express.js, React, Node.js) stack. Additionally, I have a strong foundation in Data Structures and Algorithms using C++, showcasing a well-rounded skill set that encompasses both frontend technologies and essential computer science principles. Keen to contribute to innovative projects, I am poised to thrive in collaborative tech environments and pursue ongoing growth in the dynamic realm of web development. Currently working on Next.Js
+ Enthusiastic about frontend engineering, I have expertise in HTML, CSS, and JavaScript, with a focus on React for crafting dynamic and responsive user interfaces.Proficient in utilizing React's component-based architecture and state management to create seamless and responsive web applications.My proficiency extends to full-stack development, particularly within the MERN (MongoDB, Express.js, React, Node.js) stack. Additionally, I have a strong foundation in Data Structures and Algorithms using C++, showcasing a well-rounded skill set that encompasses both frontend technologies and essential computer science principles. Keen to contribute to innovative projects, I am poised to thrive in collaborative tech environments and pursue ongoing growth in the dynamic realm of web development. Currently working on Next.Js.
 </h5>
 
 <h3 align="left">📫 Connect with me:</h3>
